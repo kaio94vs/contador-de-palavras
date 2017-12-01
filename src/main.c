@@ -1,3 +1,10 @@
+/*
+ Kaio Vieira dos Santos
+ RA:156072
+ 
+ Tabela ASCII usada: http://ic.unicamp.br/~everton/aulas/hardware/tabelaASCII.pdf
+ */
+
 
 #include <stdio.h>
  
